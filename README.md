@@ -1,6 +1,9 @@
-# jupyternbonrpi
+# jupyter-notebook on raspberrypi
+
 installl jupyter on raspberry pi
+
 在樹苺上安裝jupyter-notebook 給小朋友玩
+
 順便可以遠端啟動.
 
 #安裝jupyter-notebook
