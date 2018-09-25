@@ -10,4 +10,5 @@ sudo apt-get install jupyter-notebook
 用來啟動jupyter
 
 #crontab 設定 每三分鐘檢查jupyter 有沒有死掉
+
 */3 * * * * /home/pi/startjupyter.sh
